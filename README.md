@@ -28,7 +28,7 @@
 
 
 
-7：两篇论文的对比：[Medical-image-segmentation-papers-reading/Comparison of Annotation-efficient learning for medical image segmentation based on noisy pseudo labels and adversarial learning and Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversa.md at main · junsuyiji/Medical-image-segmentation-papers-reading (github.com)](https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/Comparison of Annotation-efficient learning for medical image segmentation based on noisy pseudo labels and adversarial learning and Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversa.md)
+7：两篇论文的对比：https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/Comparison%20of%20Annotation-efficient%20learning%20for%20medical%20image%20segmentation%20based%20on%20noisy%20pseudo%20labels%20and%20adversarial%20learning%20and%20Unsupervised%20Cross-Modality%20Domain%20Adaptation%20of%20ConvNets%20for%20Biomedical%20Image%20Segmentations%20with%20Adversa.md
 
 
 
