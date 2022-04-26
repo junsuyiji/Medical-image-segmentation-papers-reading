@@ -23,7 +23,8 @@
 
 
 
-6：论文题目：[Medical-image-segmentation-papers-reading/Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss.md at main · junsuyiji/Medical-image-segmentation-papers-reading (github.com)](https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss.md)
+6：论文题目：Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss.md
+论文思路：https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/Unsupervised%20Cross-Modality%20Domain%20Adaptation%20of%20ConvNets%20for%20Biomedical%20Image%20Segmentations%20with%20Adversarial%20Loss.md
 
 
 
