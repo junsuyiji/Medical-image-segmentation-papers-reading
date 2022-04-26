@@ -3,6 +3,8 @@
 
 由于github公式渲染的问题，建议下载下来，在本地看
 
+注：如果您在下面目录中未能打开链接，您可以下载到本地，在typora中进行尝试
+
 1：GAN的知识点，以及简单的GAN网络搭建
 
 [Medical-image-segmentation-papers-reading/GAN.md at main · junsuyiji/Medical-image-segmentation-papers-reading (github.com)](https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/GAN.md)
