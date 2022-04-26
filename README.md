@@ -15,7 +15,7 @@
 
 [Medical-image-segmentation-papers-reading/advgan.md at main · junsuyiji/Medical-image-segmentation-papers-reading (github.com)](https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/advgan.md)
 
-4：论文题目：[Annotation-efficient learning for medical image segmentation based on noisy pseudo labels and adversarial learning](https://ieeexplore.ieee.org/abstract/document/9309350/)，思路总结[Medical-image-segmentation-papers-reading/Annotation-efficient learning for medical image segmentation based on noisy pseudo labels and adversarial learning.md at main · junsuyiji/Medical-image-segmentation-papers-reading (github.com)](https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/Annotation-efficient learning for medical image segmentation based on noisy pseudo labels and adversarial learning.md)
+4：论文题目：[Annotation-efficient learning for medical image segmentation based on noisy pseudo labels and adversarial learning](https://ieeexplore.ieee.org/abstract/document/9309350/)，思路总结https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/Annotation-efficient%20learning%20for%20medical%20image%20segmentation%20based%20on%20noisy%20pseudo%20labels%20and%20adversarial%20learning.md
 
 
 
