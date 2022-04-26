@@ -32,7 +32,7 @@
 
 
 
-8：基于语义级别对抗学习的领域自适应方法 CLAN[Medical-image-segmentation-papers-reading/基于语义级别对抗学习的领域自适应方法 CLAN.md at main · junsuyiji/Medical-image-segmentation-papers-reading (github.com)](https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/基于语义级别对抗学习的领域自适应方法 CLAN.md)
+8：基于语义级别对抗学习的领域自适应方法 https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/%E5%9F%BA%E4%BA%8E%E8%AF%AD%E4%B9%89%E7%BA%A7%E5%88%AB%E5%AF%B9%E6%8A%97%E5%AD%A6%E4%B9%A0%E7%9A%84%E9%A2%86%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94%E6%96%B9%E6%B3%95%20CLAN.md
 
 
 
