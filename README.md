@@ -39,3 +39,5 @@
 
 
 9：图像处理的基础知识：[Medical-image-segmentation-papers-reading/图像处理基础知识.md at main · junsuyiji/Medical-image-segmentation-papers-reading (github.com)](https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/图像处理基础知识.md)
+
+10：条件随机场基础知识：https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/%E6%9D%A1%E4%BB%B6%E9%9A%8F%E6%9C%BA%E5%9C%BA%E5%89%8D%E7%BD%AE%E7%9F%A5%E8%AF%86
