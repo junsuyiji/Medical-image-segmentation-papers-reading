@@ -43,3 +43,5 @@
 10：条件随机场基础知识：https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/%E6%9D%A1%E4%BB%B6%E9%9A%8F%E6%9C%BA%E5%9C%BA%E5%89%8D%E7%BD%AE%E7%9F%A5%E8%AF%86
 
 11：deep learning笔记：https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/deep%20learning%E7%AC%94%E8%AE%B0
+
+12：alexnet论文阅读：https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/alexnet%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB
