@@ -45,3 +45,5 @@
 11：deep learning笔记：https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/deep%20learning%E7%AC%94%E8%AE%B0
 
 12：alexnet论文阅读：https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/alexnet%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB
+
+13：VGG论文笔记：https://github.com/junsuyiji/Medical-image-segmentation-papers-reading/blob/main/VGG%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0
